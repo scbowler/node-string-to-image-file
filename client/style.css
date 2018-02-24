@@ -1,0 +1,10 @@
+.main-title {
+    text-align: center;
+}
+
+.converted-img {
+    border: 1px solid black;
+    height: 200px;
+    margin: 15px;
+    padding: 10px;
+}

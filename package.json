@@ -1,0 +1,23 @@
+{
+  "name": "string-to-image",
+  "version": "1.0.0",
+  "description": "Converts a base64 image data string into an image file using NodeJS.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Scott Bowler",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/scbowler/node-string-to-image-file.git"
+  },
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.15.1"
+  }
+}
